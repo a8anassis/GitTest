@@ -3,7 +3,7 @@ package gr.aueb.cf.calc;
 public class Calculator {
 
     public static void main(String[] args) {
-
+        System.out.println("Coding Factory");
     }
 
     public static int add(int a, int b) {
