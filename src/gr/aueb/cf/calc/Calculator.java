@@ -15,6 +15,7 @@ public class Calculator {
     }
 
     public static int div(int a, int b) {
+        if (b == 0) System.out.println("Error");
         return a / b;
     }
 
