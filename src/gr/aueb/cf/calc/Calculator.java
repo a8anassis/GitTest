@@ -4,6 +4,7 @@ public class Calculator {
 
     public static void main(String[] args) {
         System.out.println("Coding Factory");
+        System.out.println("Hello World!!!");
     }
 
     public static int add(int a, int b) {
